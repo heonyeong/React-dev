@@ -25,26 +25,50 @@ const styles = theme => ({
 const customers = [{
   'id' : 1,
   'image' : 'https://placeimg.com/128/128/any',
-  'name' : '김헌영1',
+  'name' : '김헌영(Scott)',
   'birthday' : '841225',
   'gender' : '남',
-  'job' : '직장인'
+  'job' : '스피커'
 },
 {
   'id' : 2,
   'image' : 'https://placeimg.com/128/128/2',
-  'name' : '김헌영2',
-  'birthday' : '841226',
+  'name' : '진요한(JIN)',
+  'birthday' : '900505',
   'gender' : '남',
-  'job' : '직장인'
+  'job' : '진킨스'
 },
 {
   'id' : 3,
   'image' : 'https://placeimg.com/128/128/3',
-  'name' : '김헌영3',
+  'name' : '김화진(KATE)',
   'birthday' : '841227',
+  'gender' : '여',
+  'job' : '예술가'
+},
+{
+  'id' : 4,
+  'image' : 'https://placeimg.com/128/128/4',
+  'name' : 'Rex',
+  'birthday' : '비밀',
   'gender' : '남',
-  'job' : '직장인'
+  'job' : '스크럼마스터'
+},
+{
+  'id' : 5,
+  'image' : 'https://placeimg.com/128/128/5',
+  'name' : 'Andy',
+  'birthday' : '비밀',
+  'gender' : '남',
+  'job' : '행동대장'
+},
+{
+  'id' : 6,
+  'image' : 'https://placeimg.com/128/128/6',
+  'name' : 'Tiffany',
+  'birthday' : '비밀',
+  'gender' : '여',
+  'job' : '서기'
 }
 ]
 
